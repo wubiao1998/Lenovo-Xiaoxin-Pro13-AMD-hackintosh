@@ -2009,7 +2009,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02052303QX00008C</string>
+			<string>Generate it yourself</string>
 			<key>ProcessorType</key>
 			<integer>3841</integer>
 			<key>ROM</key>
@@ -2021,9 +2021,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DW2Y6P3XY</string>
+			<string>Generate it yourself</string>
 			<key>SystemUUID</key>
-			<string>EE8E5079-24A0-4F1D-A60D-D17B8262B475</string>
+			<string>Generate it yourself</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
